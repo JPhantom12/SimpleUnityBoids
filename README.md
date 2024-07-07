@@ -2,6 +2,8 @@
 
 This project implements a basic "boid" simulation in Unity, inspired by Craig Reynolds' paper on flocking behavior.
 
+![Gif preview](preview.gif)
+
 ## Boids Explained
 
 "Boid" is a shorthand term for "bird-oid object," an agent created by Craig Reynolds that follows three core rules to simulate realistic flocking behavior:
